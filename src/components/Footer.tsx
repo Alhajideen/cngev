@@ -68,7 +68,7 @@ export const Footer: React.FC = () => {
               rel="noopener noreferrer"
               className="btn-primary-gradient px-5 py-3 rounded-xl text-xs font-extrabold text-white flex items-center justify-center gap-2 shadow-lg"
             >
-              <span>Official Contact Form</span>
+              <span>JOIN CLEAN MOBILITY TRANSITION</span>
               <ArrowUpRight className="w-4 h-4" />
             </a>
 
@@ -106,9 +106,9 @@ export const Footer: React.FC = () => {
           target="_blank"
           rel="noopener noreferrer"
           className="btn-primary-gradient p-3.5 rounded-full text-white font-extrabold shadow-2xl flex items-center gap-2 hover:scale-105 transition-all group"
-          title="Contact Us / Google Form"
+          title="JOIN CLEAN MOBILITY TRANSITION"
         >
-          <span className="hidden sm:inline text-xs pl-1">Contact Us</span>
+          <span className="hidden sm:inline text-xs pl-1">JOIN CLEAN MOBILITY TRANSITION</span>
           <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
         </a>
       </div>

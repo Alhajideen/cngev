@@ -63,7 +63,7 @@ export const Hero: React.FC = () => {
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto btn-primary-gradient px-8 py-3.5 rounded-2xl text-sm font-extrabold text-white flex items-center justify-center gap-2 shadow-xl group"
               >
-                <span>Contact Us / Join Community</span>
+                <span>JOIN CLEAN MOBILITY TRANSITION</span>
                 <ArrowUpRight className="w-4 h-4 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
               </a>
 

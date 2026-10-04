@@ -115,7 +115,7 @@ export const LeadershipContact: React.FC = () => {
                     rel="noopener noreferrer"
                     className="btn-primary-gradient px-8 py-4 rounded-2xl text-sm font-extrabold text-white inline-flex items-center gap-2 shadow-2xl hover:scale-105 transition-transform group"
                   >
-                    <span>Click Here to Contact Us</span>
+                    <span>JOIN CLEAN MOBILITY TRANSITION</span>
                     <ArrowUpRight className="w-4 h-4 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
                   </a>
                 </div>
