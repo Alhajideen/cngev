@@ -1,8 +1,7 @@
 import React from 'react'
 import { UserCheck, ShieldCheck, Mail, Phone, Globe, MapPin, Share2, ArrowUpRight, Send } from 'lucide-react'
 import { ScrollReveal } from './ScrollReveal'
-
-const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/1JnZEWxZveprm-f6d5irWZaQZT_nm_C3vrj-gN57TeEU/edit"
+import { GOOGLE_FORM_URL } from '../constants'
 
 export const LeadershipContact: React.FC = () => {
   const leaders = [
